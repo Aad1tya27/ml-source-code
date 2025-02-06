@@ -1,2 +1,1 @@
-# ml-source-code
-The source code to my ML projects.
+## The source code of my ML projects.
